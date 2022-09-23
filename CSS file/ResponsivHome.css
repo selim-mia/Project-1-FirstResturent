@@ -1,0 +1,54 @@
+/* Responsive for mobile screen */
+@media (min-width:10px) and (max-width :576px) {
+     body{
+          background-color: rgb(20, 70, 110);
+     }
+        #logo h1 {
+            text-align: center;
+            font-size: 34px;
+            position: relative;
+            top :25px;
+        }
+        
+      
+            
+            
+        
+     }
+
+
+    /* Responsive for tablet screen */
+@media (min-width :577px) and (max-width:767px){
+    body{
+         background-color: rgb(20, 190, 34);
+    }
+
+
+
+}
+    /* Responsive for ipad or midium screen */
+@media (min-width :768px) and (max-width:991px){
+    body{
+         background-color: rgb( 20, 194, 194);
+    }
+
+}
+     /* Responsive for Leptop or  PC screen */
+
+@media (min-width :992px) and (max-width:1199px){
+    body{
+         background-color: rgb( 20, 194, 194);
+    }
+
+}
+
+     /* Responsive for Extra Big PC or monitor  screen */
+
+     @media (min-width :1200px){
+        body{
+             background-color: rgb(5, 148, 60);
+        }
+    
+    }
+
+
